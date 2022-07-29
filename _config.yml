@@ -1,4 +1,7 @@
 description:  
 theme: jekyll-theme-cayman
+is_project_page: true
+show_downloads: true
+google_analytics:
 github:
   repository_url: https://github.com/iDEA-org/iDEA
