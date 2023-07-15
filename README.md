@@ -102,9 +102,15 @@ iDEA was used to create teaching content for the [Density Functional Theory MOOC
 Dr. Jack Wetherell, Dr. Matt Hodgson and Dr. Leopold Talirz.
 
 <div style="display:flex;">
-    <img src="docs/Jack_Wetherell.jpeg" style="max-width:25%;">
-    <img src="docs/Matt_Hodgson.jpg" style="max-width:25%;">
-    <img src="docs/Leopold_Talirz.jpeg" style="max-width:25%;">
+    <div style="flex: 1;">
+        <img src="docs/Jack_Wetherell.jpeg" style="max-width:100%; height:auto;">
+    </div>
+    <div style="flex: 1;">
+        <img src="docs/Matt_Hodgson.jpg" style="max-width:100%; height:auto;">
+    </div>
+    <div style="flex: 1;">
+        <img src="docs/Leopold_Talirz.jpeg" style="max-width:100%; height:auto;">
+    </div>
 </div>
 
 <!--img src="docs/dev.png" alt="" width="500"/-->
