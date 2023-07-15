@@ -47,9 +47,9 @@ For full details of usage please see our [tutorial](https://github.com/iDEA-org/
 ## Features
 
 Some of iDEA's features:
-- Exact solution of the many-electron problem by solving the static and time-dependent Schrödinger equation, including exact exchange and correlation.
+- Exact solution of the many-electron problem by solving the static and time-dependent Schr&uuml;dinger equation, including exact exchange and correlation.
 - Exact solutions which approach the degree of exchange and correlation in realistic systems.
-- Free choice of external potential that may be time-dependent, on an arbitrarily dense spatial grid, for any number of electron with any spin configuration.
+- Free choice of external potential that may be time-dependent, on an arbitrarily dense spatial grid, for any number of electrons with any spin configuration.
 - Implementation of various approximate methods (established and novel) for comparison, including:
     - Non-interacting electrons
     - Hartree theory
@@ -57,7 +57,7 @@ Some of iDEA's features:
     - The Local Density Approximation (LDA)
     - Hybrid functionals
 - Implementation of all common observables.
-- Reverse-engineering to solve potential inversion, from exact Kohn-Sham DFT and beyond.
+- Reverse-engineering algorithms (static and dyanmic): Determines the multiplicative potential by inverting single-particle Schr&uuml;dinger equations based on input densities, encompassing Kohn-Sham potential and advanced variations.
 - Fully parallelised using OpenBLAS.
 - Fully parallelised for all cuda supporting GPUS.
 
