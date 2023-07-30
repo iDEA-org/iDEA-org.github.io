@@ -119,7 +119,7 @@ Dr. Jack Wetherell, Dr. Matt Hodgson and Dr. Leopold Talirz.
 
 We thank all of the developers, PhD students, master's students, summer project interns and researchers for thier key contributions to iDEA:
 
-Sean Adamson, Jacob Chapman, Thomas Durrant, Razak Elmaslmane, Mike Entwistle, Rex Godby, Matt Hodgson, Piers Lillystone, Aaron Long, Robbie Oliver, James Ramsden, Ewan Richardson, Matthew Smith, Leopold Talirz and Jack Wetherell. 
+Sean Adamson, Leo Arnstein, Jacob Chapman, Thomas Durrant, Razak Elmaslmane, Mike Entwistle, Fabien Faria, Rex Godby, Matt Hodgson, Piers Lillystone, Aaron Long, Robbie Oliver, James Ramsden, Ewan Richardson, Matthew Smith, Leopold Talirz and Jack Wetherell. 
 
 ## Getting Involved
 
